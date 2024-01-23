@@ -1,0 +1,1 @@
+export { PageBlog } from "./PageBlog";
