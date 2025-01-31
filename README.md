@@ -27,7 +27,7 @@ Este repositorio contiene el código fuente de la página web del Hogar Santa Ma
 
 ## Instrucciones de Uso
 
-1. Clona este repositorio: `git clone [URL]`
+1. Clona este repositorio: `git clone https://github.com/diegoseg15/hogar-santa-marianita-diseno1`
 2. Ingresa a la carpeta del proyecto: `cd HogarSantaMarianitaV1`
 3. Instala las dependencias: `npm install`
 4. Inicia la aplicación: `npm start`
