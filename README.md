@@ -1,5 +1,5 @@
 <div width="100%">
-    <img src="https://github.com/diegoseg15/hogar-santa-marianita-diseno1/blob/main/src/assets/images/Captura-Presentaci%C3%B3n.png?raw=true" alt="presentación de la página del hogar santa marianita" />
+    ![Presentación de la página del hogar Santa Marianita](https://github.com/diegoseg15/hogar-santa-marianita-diseno1/blob/main/src/assets/images/Captura-Presentaci%C3%B3n.png?raw=true)
 </div>
 
 # Hogar Santa Marianita V1
