@@ -1,4 +1,3 @@
-
 ![Presentación de la página del hogar Santa Marianita](https://github.com/diegoseg15/hogar-santa-marianita-diseno1/blob/main/src/assets/images/Captura-Presentaci%C3%B3n.png?raw=true)
 
 # Hogar Santa Marianita V1
